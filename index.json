@@ -1,0 +1,29 @@
+{
+    "title": "Run Commands Automatically",
+    "description": "Automatically run commands in the foreground and background when a scenario starts",
+    "details": {
+        "intro": {
+            "text": "intro.md"
+        },
+        "steps": [
+            {
+                "title": "Scripts On Intro Page",
+                "text": "step1/text.md"
+            },
+            {
+                "title": "Scripts On Steps",
+                "text": "step2/text.md"
+            },
+            {
+                "title": "Asynchronous and Sychronous Scripts",
+                "text": "step4/text.md"
+            }
+        ],
+        "finish": {
+            "text": "finish.md"
+        }
+    },
+    "backend": {
+        
+    }
+}
